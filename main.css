@@ -1,0 +1,31 @@
+html{
+    font-size: 22px;
+}
+
+.kati{
+    text-align: center;
+}
+
+body{
+    background-color: whitesmoke;
+    color: #333;
+    
+}
+
+h1 {
+    color: rgb(162, 35, 35);
+}
+
+h2 {
+    color: rgb(162, 35, 35);
+}
+
+.hr{
+    border-bottom: 5px solid rgb(162, 35, 35);
+    padding: 10px;
+}
+
+.this{
+    font-size: 20px; 
+    font-family: 'Times New Roman', Times, serif; 
+}
